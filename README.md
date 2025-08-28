@@ -20,7 +20,7 @@ CSE1110_ICS/
 ```
 
 - **Problemsheet1** – Problems focused on basic syntax, declarations, input/output, and data types.
-- **Problemsheet1** – Builds on Sheet 1 by adding arithmetic, expressions, control flow operators, and mathematical formulas. 
+- **Problemsheet2** – Builds on Sheet 1 by adding arithmetic, expressions, control flow operators, and mathematical formulas. 
 
 ## Getting Started
 
