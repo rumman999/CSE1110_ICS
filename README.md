@@ -7,12 +7,12 @@ This repository contains solutions to the practice problems for **CSE 1110 – I
 ```text
 CSE1110_ICS/
 ├── Problemsheet1_Solve/
-│   ├── problem01.c
-│   ├── problem02.c
+│   ├── problem1.c
+│   ├── problem2.c
 │   └── …
 ├── Problemsheet2_Solve/
-│   ├── problem01.c
-│   ├── problem02.c
+│   ├── problem1.c
+│   ├── problem2.c
 │   └── …
 └── Problemsheet1.docx
 └── Problemsheet2.docx
