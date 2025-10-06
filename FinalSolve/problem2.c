@@ -1,30 +1,27 @@
 #include <stdio.h>
 
-int main()
-{
+int main(){
 
-    char selection;
+    char c;
     float length, width;
 
-    scanf("%c", &selection);
+    scanf("%c", &c);
     scanf("%f %f", &length, &width);
-
 
     float result;
 
-
-    switch(selection)
-    {
+    switch(c){
     case 'A':
         result = length * width;
-        printf("The area of the rectangle is: %f", result);
+        printf("The area of the rectangle is: %f\n", result);
         break;
     case 'P':
-        result = 2* (length + width);
-        printf("The perimeter of the rectangle is: %f", result);
+        result = 2 * (length + width);
+        printf("The perimeter of the rectangle is: %f\n", result);
         break;
     default:
-        printf("Only 'A' and 'P' are valid for selection type\n");
+        printf("Error: Please enter only 'A' or 'P'");
     }
 
+    return 0;
 }
